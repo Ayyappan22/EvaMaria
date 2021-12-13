@@ -1,11 +1,10 @@
 class script(object):
     START_TXT = """<b>нєу</b> {}
 
-<b>ιAм</b><a href='https://t.me/MHFilter_bot'>⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼</a><b>Jυѕт A Advαɴce Aυтo Fιlтer Boт..!🤩 Tнιѕ Boт ιѕ Mαde Eхclυѕιvely For Tнe "Mαllυ Hυв Movιeѕ" Groυp.Sorry Yoυ Cαɴ'т Add Me To Yoυr Groυp..!</b>"""
+<b>ιAм</b><a href='https://t.me/MHFilter_bot'>༺-ᴱT-༻</a><b>Jυѕт A Advαɴce Aυтo Fιlтer Boт..!🤩 Tнιѕ Boт ιѕ Mαde Eхclυѕιvely For Tнe "Mαllυ Hυв Movιeѕ" Groυp.Sorry Yoυ Cαɴ'т Add Me To Yoυr Groυp..!</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
-✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴:</b> ⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼
 ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝙰𝚋𝙷𝚒𝚓𝚒𝚝𝚑</b>
 ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
@@ -20,7 +19,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and ⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼ should have admin privillage.
+1. ༺-ᴱT-༻ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -31,11 +30,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼ Supports both url and alert inline buttons.
+- ༺-ᴱT-༻ Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼ supports buttons with any telegram media type.
+2. ༺-ᴱT-༻ supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -66,7 +65,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ⪻ 𝕽𝖆𝖏𝖚 𝕭𝖍𝖆𝖎 ⪼
+these are the extra features of ༺-ᴱT-༻
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
